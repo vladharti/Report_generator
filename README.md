@@ -30,7 +30,7 @@ The ProductReport.csv file is a comma-separated text file summarizing the sales 
 
 **Usage**
 
-To run the Report Generator, execute the following command in the command-line interface of the directory where you saved the files:
+To run the Report Generator, download all files in a single folder. Then, execute the following command in the command-line interface of the directory where you saved the files:
 
 **python report.py -t TeamMap.csv -p ProductMaster.csv -s Sales.csv --team-report=TeamReport.csv --product-report=ProductReport.csv**
 
